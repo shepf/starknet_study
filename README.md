@@ -3,7 +3,7 @@ starknet CSDN 学习专栏
 跟着我一起学习，starknet，[这个专栏我会坚持干货~](https://blog.csdn.net/inthat/category_12510288.html)https://blog.csdn.net/inthat/category_12510288.html
 
 * [Starknet 命令行工具之Starkli | 使用Starkli部署合约](https://blog.csdn.net/inthat/article/details/134939933)
-* [starknet学习资料汇集这一篇就够了（持续更新）] (https://blog.csdn.net/inthat/article/details/134634041)
+* [starknet学习资料汇集这一篇就够了（持续更新）](https://blog.csdn.net/inthat/article/details/134634041)
 * [手把手教你部署一个starnet上的 ERC20合约](https://blog.csdn.net/inthat/article/details/134855157)
 * [ERC20 | ERC-20/ERC-721/ERC-1155/ERC-3525 区别](https://blog.csdn.net/inthat/article/details/126757401)
 * [Remix IDE 快速开始Starknet](https://blog.csdn.net/inthat/article/details/126562276)
