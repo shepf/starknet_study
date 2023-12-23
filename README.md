@@ -18,6 +18,7 @@ starknet CSDN 学习专栏
   
 # 🚀 示例demo
 此仓库持续更新，自己练习用的合约代码。
+```bash
 ├── project_name
 │   ├── Scarb.lock
 │   ├── Scarb.toml
@@ -30,4 +31,5 @@ starknet CSDN 学习专栏
 │   └── tests
 │       └── test_contract.cairo
 └── README.md
+```
 
