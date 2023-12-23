@@ -1,4 +1,4 @@
-# starknet_study 
+# 🌟 starknet_study 
 starknet CSDN 学习专栏
 跟着我一起学习，starknet
 [这个专栏我会坚持干货~](https://blog.csdn.net/inthat/category_12510288.html)https://blog.csdn.net/inthat/category_12510288.html
@@ -16,5 +16,5 @@ starknet CSDN 学习专栏
 * [Web3之L2 ZK-Rollup 方案-StarkNet](https://blog.csdn.net/inthat/article/details/122480471)
 * [什么是EOA地址、账户抽象（Account Abstraction）](https://blog.csdn.net/inthat/article/details/127563020)
   
-# 示例demo
+# 🚀 示例demo
 此仓库持续更新，自己练习用的合约代码。
